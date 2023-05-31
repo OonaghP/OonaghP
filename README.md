@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OonaghP
 - 👀 I’m interested in infectious disease epidemiology.
-- 🌱 I’m currently learning how to use GitHub.
+- 🌱 I’m currently a PhD student.
 - 💞️ I’m looking to collaborate on modeling African Swine Fever transmission in data-poor environments.
 - 📫 How to reach me ... send me an email: opretorius@ucdavis.edu
 
